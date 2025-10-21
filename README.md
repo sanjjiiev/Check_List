@@ -24,12 +24,6 @@ A simple, interactive checklist app built with **React.js**. The app allows user
 
 ---
 
-## Demo
-
-You can view a live demo of the app [here](#) *(link to live demo if available)*.
-
----
-
 ## Installation
 
 Follow these steps to get the checklist app running locally:
